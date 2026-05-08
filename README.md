@@ -63,14 +63,11 @@ This project was developed with a focus on digital forensics and proactive cyber
 
 ---
 
-### How to update your Project Name:
-
-To make the project look more professional on GitHub:
+### How to update your Project:
 
 1. Go to your **[PhishGuard Settings](https://github.com/Rishichauhan67/PhishGuard/settings)**.
-2. In the **Repository Name** field, you might keep it as `PhishGuard` (short URLs are better), but change the **Description** below it to:
 > *An advanced AI-driven phishing detection system designed for real-time URL analysis and cybersecurity forensics.*
 
 
 
-Would you like me to add a section specifically explaining the AI models you used for the detection?
+
