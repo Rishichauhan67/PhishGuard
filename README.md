@@ -72,13 +72,17 @@ This project was developed with a focus on digital forensics and proactive cyber
 
 This project is built upon established research in machine learning and digital forensics. The following papers provide the theoretical basis for our detection logic and forensic analysis:
 
-* **[Phishing Website Detection Using Machine Learning Algorithms](https://ieeexplore.ieee.org/document/9074312)** *Explores the performance of various supervised learning models in classifying malicious URLs, supporting our core detection engine.*
+* **[Phishing Website Detection Using Machine Learning Algorithms](https://ieeexplore.ieee.org/document/9074312)** *:
+  Explores the performance of various supervised learning models in classifying malicious URLs, supporting our core detection engine.*
 
-* **[A Novel Approach for Phishing Website Detection using URL Features](https://www.researchgate.net/publication/340455502_A_Novel_Approach_for_Phishing_Website_Detection_using_URL_Features)** *Provides a detailed analysis of heuristic features such as domain age and SSL anomalies used in our analysis phase.*
+* **[A Novel Approach for Phishing Website Detection using URL Features](https://www.researchgate.net/publication/340455502_A_Novel_Approach_for_Phishing_Website_Detection_using_URL_Features)** :
+  *Provides a detailed analysis of heuristic features such as domain age and SSL anomalies used in our analysis phase.*
 
-* **[Deep Learning for Phishing Detection: A Comprehensive Review](https://www.mdpi.com/2076-3417/10/18/6509)** *Offers insights into the evolution of AI-driven security and advanced neural network applications for real-time threat mitigation.*
+* **[Deep Learning for Phishing Detection: A Comprehensive Review](https://www.mdpi.com/2076-3417/10/18/6509)** :
+* *Offers insights into the evolution of AI-driven security and advanced neural network applications for real-time threat mitigation.*
 
-* **[Digital Forensics in Cybersecurity: A Review of RAM Analysis](https://www.sciencedirect.com/science/article/abs/pii/S016740481930211X)** *Underpins the forensic focus of PhishGuard, specifically regarding volatile memory analysis and proactive threat hunting.*
+* **[Digital Forensics in Cybersecurity: A Review of RAM Analysis](https://www.sciencedirect.com/science/article/abs/pii/S016740481930211X)** :
+* *Underpins the forensic focus of PhishGuard, specifically regarding volatile memory analysis and proactive threat hunting.*
 
 
 
